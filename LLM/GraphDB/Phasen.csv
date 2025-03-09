@@ -1,3 +1,15 @@
-Phase_ID,Name
-1,Produktion
-2,Postproduktion
+ID,Name
+1,Kreation
+2,Produktion
+3,Post-Produktion
+4,Konzeption
+5,Distribution
+6,Ausstattung
+7,Instagram Workshop (2x ganztägig)
+8,TikTok Workshop (1x ganztägig)
+9,Linkedin Workshop (1x halbtags)
+10,Vorproduktion
+11,Strategie
+12,Befähigung/Schulung
+13,Organisation
+14,Sonstiges

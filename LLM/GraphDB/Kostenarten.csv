@@ -1,3 +1,8 @@
-Kostenart_ID,Name
+ID,Name
 1,Personalkosten
-2,Equipment
+2,Schauspieler
+3,Equipment
+4,Sonstiges
+5,Outfit
+6,
+7,Cast & Outfit

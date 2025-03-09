@@ -1,4 +1,228 @@
-Item_ID,Bezeichnung,Einzelpreis,Einheit
-1,Dreharbeit,50,StÃ¼ck
-2,Schnitt,30,StÃ¼ck
-3,Bohrarbeit,40,StÃ¼ck
+ID,Bezeichnung,Einzelpreis,Einheit
+1,Producer / Projektmanager,928,Tage
+2,Drehbuch / Textentwicklung,928,Tage
+3,Casting,928,Tage
+4,Drehplan & Shotlist,928,Tage
+5,Storyboard,928,Tage
+6,"Setplanung, -besorgungen & Einrichtung",750,Tage
+7,Regie,1160,Tage
+8,Kameramann,880,Tage
+9,Kamera-Assistenz,560,Tage
+10,Oberbeleuchter,880,Tage
+11,Best Boy/Girl,560,Tage
+12,"Outfit, Hair & Make Up Artist",750,Tage
+13,Protagonist,625,Personen
+14,Fahrtkosten Michael & Mel,100,Personen
+15,Kamera A,300,Tage
+16,Kamera B,300,Tage
+17,Bildübertragung & Monitore,150,Tage
+18,Easyrig,80,Tage
+19,Ton,100,Tage
+20,Licht (Szene),1000,Tage
+21,Grip für 1.AC,100,Tage
+22,Vorbereitungen,640,Tage
+23,Location-Rent,600,Tage
+24,Verpflegung / Catering,20,Personen
+25,Basis-Animation UX,928,Tage
+26,Implementierung TN in UX,928,Tage
+27,Lizenzen Stockfootage,80,Stück
+28,"Editor & Schnittplatz Clip 1x ""Bestcase""",928,Tage
+29,Musik,150,Stück
+30,Sprecherlizenzen & Aufnahmebegleitung,700,Stück
+31,Konzeptentwicklung,1160.0,Tag
+32,Producer / Projektmanager,928.0,Tag
+33,Textentwicklung,928.0,Tag
+34,Animations-Storyboard,928.0,Tag
+35,Editor & Schnittplatz,928.0,Tage
+36,Schrifteinbindungen,928.0,Tag
+37,Sounddesign & Abmischen,928.0,Tag
+38,Musik,300.0,Stück
+39,Stock-Footage,80.0,Stück
+40,Sprecherlizenzen & Aufnahmebegleitung,1000.0,pauschal
+41,Transkription,928.0,Tag
+42,Textänderungen Animation,928.0,Tag
+43,Tonaufnahmen setzen,928.0,Tag
+44,Nutzungsrechte,,
+45,Konzeptentwicklung,1160.0,Tage
+46,Textabstimmung,928.0,Tage
+47,"Floorplan, Drehplan & Shotlist",928.0,Tage
+48,Runner,560.0,Tage
+49,Licht & Grip (Interview),100.0,Tage
+50,Be-entladen,640.0,Tage
+51,Transporter,50.0,Tage
+52,Anfahrt,0.3,km
+53,Color-Grading,928.0,Tage
+54,Anpassung 9:16,928.0,Tage
+55,Untertitel-Version,928.0,Tage
+56,Ausarbeitung Interviewfragen,928.0,Tage
+57,Locationbegehung,2040.0,Tage
+58,Casting,695.0,Tage
+59,Kamera,300.0,Tage
+60,Kamera 2,150.0,Tage
+61,Stabilisierungssystem Gimbal,300.0,Tage
+62,Licht (Standard),100.0,Tage
+63,Monitore & Funkstrecken,150.0,Tage
+64,Be-entladen,880.0,Tage
+65,Transporter,90.0,Tage
+66,Verpflegung / Catering,,
+67,Corona Tests & Masken etc.,40.0,Tage
+68,Editor & Schnittplatz,860.0,Tage
+69,Color-Grading,860.0,Tage
+70,Schrift- und Logoeinbindungen,860.0,Tage
+71,Sounddesign & Abmischen,860.0,Tage
+72,Untertitel als .srt Datei / DE,100.0,Stück
+73,Thumbnail,100.0,Stück
+74,Schrift- und Logoeinbindungen,928.0,Tage
+75,Sounddesign & Abmischen,928.0,Tage
+76,Thumbnails,100.0,Stück
+77,Musik,100.0,Stück
+78,Optiken,,
+79,Ton,200.0,Tage
+80,Licht (Interview),100.0,Tage
+81,Projektmanagement,928,Tage
+82,Anpassung Drehbuch,928,Tage
+83,Locationbegehung,928,Tage
+84,Outfit,750,Tage
+85,Requisite / Set Design,750,Tage
+86,Protagonist,,Tage
+87,Komparsen,,Tage
+88,Stabilisierungssystem Gimbal & Exoskelet,300,Tage
+89,Licht (Szene),800,Tage
+90,Animationen,928,Tage
+91,Sound Design,928,Tage
+92,Kick-Off Workshop online,1160.0,Tage
+93,Setbau,560.0,Tage
+94,Auswahl Cast,928.0,Tage
+95,Produktionsassistenz,659.0,Tage
+96,2. Kamera,880.0,Tage
+97,Ton,880.0,Tage
+98,Komparsen,,Personen
+99,Hauptdarsteller,400.0,Tage
+100,Kamera C,300.0,Tage
+101,Ausstattung-Mietmaterialien,,
+102,"Requisiten, Print, etc.",,
+103,Location Scouting,750,Tage
+104,Recce/Locationbegehung Studio,2920,Tage
+105,Recce andere Locations,928,Tage
+106,Casting Actors,928,Tage
+107,Casting Voice Actors,928,Tage
+108,Proben,928,Tage
+109,Setbauer,,
+110,Regieassistenz,637,Tage
+111,Line Producer,928,Tage
+112,Licht,880,Tage
+113,Best Boy/Girl,637,Tage
+114,Key Grip,880,Tage
+115,Sound,880,Tage
+116,Outfit,720,Tage
+117,Hair & Make Up Artist,800,Tage
+118,Requisite/Props,720,Tage
+119,Transfer-Tage Team,9522,Tage
+120,Vorbau,4997,Tage
+121,Protagonist,3000,Tage
+122,Komparsen,500,Personen
+123,Outfit Schauspieler,,
+124,Outfit Komparsen,,
+125,Optiken,800,Tage
+126,Bildübertragung & Monitore,300,Tage
+127,Grip,300,Tage
+128,"Kamerabühne (Kran, Dolly, Slider)",1500,Tage
+129,Ton,300,Tage
+130,Drohne,100,Tage
+131,Licht (Szene),3000,Tage
+132,Funk,60,Tage
+133,Verbrauchsmaterial,200,Tage
+134,Requisite,,
+135,Set-Miete: Klinik,3000,Tage
+136,"LWK 7,5t",120,Tage
+137,"Transporter 3,5t",90,Tage
+138,Autos,90,Tage
+139,Anfahrt,,
+140,Verpflegung / Catering,20,Portionen
+141,Übernachtungen & Verpflegung,100,Nächte
+142,Producer-Software,150,Monate
+143,Sprecherlizenzen & Aufnahmebegleitung,,
+144,Untertitel,,
+145,Transkription,,
+146,Renderings,,
+147,Vorbereitung Workshop,1160,Tage
+148,Workshoptage,1700,Tage
+149,Anreise,0.3,km
+150,CarSharing,40,Tage
+151,optional: Handout mit Übungen,1160,Tage
+152,optional: Checklisten f. Formate,1160,Tage
+153,optional: Screenrecording Schnitt,1160,Tage
+154,Locationbegehung,2000,Tage
+155,Requisite,750,Tage
+156,Producer,928,Tage
+157,Requisite,700,Tage
+158,Optiken,,Tage
+159,Bildübertragung & Monitore,200,Tage
+160,"Kamerabühne (Kran, Dolly, Slider)",100,Tage
+161,Licht (Szene),1500,Tage
+162,Postproduction Regie,928,Tage
+163,Musik,50,Stück
+164,Produktionsassistenz,560,Tage
+165,Beleuchtung & 2. Kamera,,
+166,Protagonistin Amy,500,Tage
+167,Outfit,,
+168,Anfahrt & Parkkosten,,
+169,Unterkunft,,
+170,Bildübertragung & Monitore,80,Tage
+171,Licht (Szene),1300,Tage
+172,Rental-Organisation,,pauschal
+173,Verpflegung / Catering Montag,,
+174,Sprecherlizenzen & Aufnahmebegleitung,800,pauschal
+175,Kameramann Event,864,Tage
+176,Musik,250,Stück
+177,Produktionsassistenz,560,Tag
+178,"Floorplan, Drehplan & Shotlist",928,Tag
+179,Drehbuch / Textentwicklung,928,Tag
+180,Kamera-Assistenz/1.AC,560,Tage
+181,Licht,813,Tage
+182,Best Boy,637,Tage
+183,Ton,688,Tage
+184,Nachtwache,,Nächte
+185,Casting-Ausschreibungen,928,Tag
+186,Proben,928,Tag
+187,SHKler,1300,Tage
+188,KSK-Abgaben,5%,
+189,Unterkunft & Verpflegung,100,Nächte
+190,Anreise,,
+191,Objektivsatz,100,Tage
+192,Kamerabühne,800,Tage
+193,Monitorsystem,300,Tage
+194,Ton,460,Tage
+195,Licht Brilon,800,Tage
+196,Verbrauchsmaterial Grip,100,Tage
+197,Transporter Licht,115,Tage
+198,Verpflegung / Catering Unterkunft,100,Nächte
+199,Produktionssoftware,,
+200,Catering,,
+201,Bierzeltgarnituren,,
+202,Editor & Schnittplatz Konzept 2,928,Tage
+203,Editor & Schnittplatz Konzept 4,928,Tage
+204,Drehbuch / Text-Sparring,928.0,Tage
+205,Licht-Meister,880.0,Tage
+206,Optiken,300.0,Tage
+207,Slider,200.0,Tage
+208,Grip,200.0,Tage
+209,Transporter,90.0,Stück
+210,Sprecherlizenzen & Aufnahmebegleitung,800.0,Stück
+211,Regieassistenz,560.0,Tage
+212,Best Boy/Girl,590.0,Tage
+213,Transporter 2x,180.0,Tage
+214,Miete Säulen,,
+215,Hero,928.0,Tage
+216,Sprecherlizenzen & aufnahme,,pauschal
+217,D,928.0,Tage
+218,E,928.0,Tage
+219,G,928.0,Tage
+220,N,928.0,Tage
+221,K,928.0,Tage
+222,Locationbegehung Casino,3000.0,0.5 Tage
+223,Casting,640.0,4.0 Tage
+224,Drehbuch,1000.0,5.0 Tage
+225,Shotlist & Planung,800.0,4.0 Tage
+226,Personentage,1160.0,Tage
+227,Fahrtkosten,0.35,km
